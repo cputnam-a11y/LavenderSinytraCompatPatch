@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "lavendersinytracompatpatch.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "HeldItemRendererMixin"
+  ]
+}
